@@ -89,10 +89,9 @@
             // 
             this.txtDiscountPercent.Location = new System.Drawing.Point(311, 135);
             this.txtDiscountPercent.Name = "txtDiscountPercent";
-            this.txtDiscountPercent.ReadOnly = true;
             this.txtDiscountPercent.Size = new System.Drawing.Size(214, 35);
             this.txtDiscountPercent.TabIndex = 3;
-            this.txtDiscountPercent.TabStop = false;
+            this.txtDiscountPercent.Text = "5";
             // 
             // txtTotal
             // 
