@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jmanka1c1", "jmanka1c1\jman
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jmanka17301d1", "jmanka17301d1\jmanka17301d1.csproj", "{81F5D963-0A2D-4A53-9643-79FA5D99797F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jmanka1730ex1e", "jmanka1730ex1e\jmanka1730ex1e.csproj", "{DD0FC61C-3F06-41C7-91BE-C3FA47F7A5D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{81F5D963-0A2D-4A53-9643-79FA5D99797F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81F5D963-0A2D-4A53-9643-79FA5D99797F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81F5D963-0A2D-4A53-9643-79FA5D99797F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD0FC61C-3F06-41C7-91BE-C3FA47F7A5D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD0FC61C-3F06-41C7-91BE-C3FA47F7A5D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD0FC61C-3F06-41C7-91BE-C3FA47F7A5D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD0FC61C-3F06-41C7-91BE-C3FA47F7A5D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
