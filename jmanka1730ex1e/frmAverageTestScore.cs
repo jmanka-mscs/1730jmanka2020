@@ -37,9 +37,9 @@ namespace jmanka1730ex1e
 
         private void button3_Click(object sender, EventArgs e)
         {
-            txtTest1.Text = "0.00";
-            txtTest2.Text = "0.00";
-            txtTest3.Text = "0.00";
+            txtTest1.Text = "0";
+            txtTest2.Text = "0";
+            txtTest3.Text = "0";
             txtAverage.Text = "";
         }
 
