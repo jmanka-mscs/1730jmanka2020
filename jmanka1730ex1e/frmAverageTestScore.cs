@@ -47,5 +47,10 @@ namespace jmanka1730ex1e
         {
             this.Close();
         }
+
+        private void txtTest1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

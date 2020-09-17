@@ -105,6 +105,11 @@ namespace jmanka17301d1
         {
             this.Close();
         }
+
+        private void CurrencyConverter_Load(object sender, EventArgs e)
+        {
+
+        }
     }
     }
     

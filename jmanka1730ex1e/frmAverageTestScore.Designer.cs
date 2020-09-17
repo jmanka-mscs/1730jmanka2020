@@ -49,6 +49,7 @@
             this.txtTest1.TabIndex = 0;
             this.txtTest1.Text = "0";
             this.txtTest1.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            this.txtTest1.TextChanged += new System.EventHandler(this.txtTest1_TextChanged);
             // 
             // txtTest3
             // 

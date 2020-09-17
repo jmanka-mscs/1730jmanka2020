@@ -195,6 +195,7 @@
             this.txtAmountJamaica.Name = "txtAmountJamaica";
             this.txtAmountJamaica.Size = new System.Drawing.Size(382, 35);
             this.txtAmountJamaica.TabIndex = 2;
+            this.txtAmountJamaica.Text = "1";
             this.txtAmountJamaica.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.txtAmountJamaica.TextChanged += new System.EventHandler(this.JamaicaTextChanged);
             // 
@@ -394,6 +395,7 @@
             this.Controls.Add(this.pictureBox2);
             this.Name = "CurrencyConverter";
             this.Text = "Currency Converter ";
+            this.Load += new System.EventHandler(this.CurrencyConverter_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
