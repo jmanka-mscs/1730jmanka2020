@@ -110,6 +110,16 @@ namespace jmanka17301d1
         {
 
         }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label7_Click(object sender, EventArgs e)
+        {
+         
+        }
     }
     }
     

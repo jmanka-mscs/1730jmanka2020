@@ -161,6 +161,7 @@
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox2.TabIndex = 12;
             this.pictureBox2.TabStop = false;
+            this.pictureBox2.Click += new System.EventHandler(this.pictureBox2_Click);
             // 
             // label7
             // 
@@ -170,6 +171,7 @@
             this.label7.Size = new System.Drawing.Size(100, 29);
             this.label7.TabIndex = 15;
             this.label7.Text = "Amount:";
+            this.label7.Click += new System.EventHandler(this.label7_Click);
             // 
             // txtAmountBarbados
             // 
