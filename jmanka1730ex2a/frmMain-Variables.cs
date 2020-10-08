@@ -30,7 +30,6 @@ namespace jmanka1730ex2a
             txtDiscountAmount.Text = DiscountAmount.ToString("0.00");
 
             decimal Total = Subtotal - DiscountAmount;
-            txtTotal.Text = Total.ToString("0.00");
-        }
+            txtTotal.Text = Total.ToString("0.00"); 
     }
 }
